@@ -1,6 +1,6 @@
 # Tableau-Data-Visualization
 
-### This is the second project of Udacity Nanodegree (Advanced Data Analysis)
+### This is the Third project of Udacity Nanodegree (Advanced Data Analysis)
 #### Discription
 
 - This project is about creating data visualizations using Tableau. 
